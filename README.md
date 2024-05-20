@@ -1,1 +1,1 @@
-https://github.com/Aniket-89/Cakepreneur
+https://aniket-89.github.io/Cakepreneur/
